@@ -1,0 +1,12 @@
+C:\VICTOR 24703\Practica 3\Practica 3\bin\Debug\Practica 3.exe.config
+C:\VICTOR 24703\Practica 3\Practica 3\bin\Debug\Practica 3.exe
+C:\VICTOR 24703\Practica 3\Practica 3\bin\Debug\Practica 3.pdb
+C:\VICTOR 24703\Practica 3\Practica 3\bin\Debug\Practica 3.xml
+C:\VICTOR 24703\Practica 3\Practica 3\obj\Debug\Practica 3.vbprojAssemblyReference.cache
+C:\VICTOR 24703\Practica 3\Practica 3\obj\Debug\Practica_3.Form1.resources
+C:\VICTOR 24703\Practica 3\Practica 3\obj\Debug\Practica_3.Resources.resources
+C:\VICTOR 24703\Practica 3\Practica 3\obj\Debug\Practica 3.vbproj.GenerateResource.cache
+C:\VICTOR 24703\Practica 3\Practica 3\obj\Debug\Practica 3.vbproj.CoreCompileInputs.cache
+C:\VICTOR 24703\Practica 3\Practica 3\obj\Debug\Practica 3.exe
+C:\VICTOR 24703\Practica 3\Practica 3\obj\Debug\Practica 3.xml
+C:\VICTOR 24703\Practica 3\Practica 3\obj\Debug\Practica 3.pdb
